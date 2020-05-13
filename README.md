@@ -14,3 +14,7 @@ lab5:
 	https://drive.google.com/file/d/1q0Ih74iqzKyqvg0juMqJL6-mtzrVFEik/view?usp=sharing
 	https://drive.google.com/file/d/1rLteIF7ooCknxQ1OoPVdCC_Kjn1IsArY/view?usp=sharing
 	I made the particles form a ring and converge to the center before flying off inall directions, and also they change color over time.
+lab6:
+	![Alt text](/lab6/CMPM163Lab6.png?raw=true "Part 13")
+	https://www.shadertoy.com/view/wdSBzz
+	https://www.shadertoy.com/view/Ms2SD1
