@@ -18,3 +18,10 @@ lab6:
 	![Alt text](/lab6/CMPM163Lab6.png?raw=true "Part 13")
 	https://www.shadertoy.com/view/wdSBzz
 	https://www.shadertoy.com/view/Ms2SD1
+lab7:
+	![Alt text](/lab7/a1.png?raw=true "Part 2 A")
+	![Alt text](/lab7/a2.png?raw=true "Part 2 B")
+	https://drive.google.com/file/d/1fudE7TAv7BpX3zanvtLBQmwVoX-8EOEZ/view?usp=sharing
+	https://drive.google.com/file/d/15sgRTY3jIj-lUOs5PBtxnZ_Mw63JTaw7/view?usp=sharing
+
+
