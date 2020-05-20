@@ -23,5 +23,6 @@ lab7:
 	![Alt text](/lab7/a2.png?raw=true "Part 2 B")
 	https://drive.google.com/file/d/1fudE7TAv7BpX3zanvtLBQmwVoX-8EOEZ/view?usp=sharing
 	https://drive.google.com/file/d/15sgRTY3jIj-lUOs5PBtxnZ_Mw63JTaw7/view?usp=sharing
+	Could not reach my partner.
 
 
