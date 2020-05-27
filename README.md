@@ -31,4 +31,5 @@
 	Added brick texture to small buildings and glass to big ones.
 	Removed a line of buildings to make room for a freeway.
 	Added in trees to replace some buildings but the trees did not show up.
+	Could not reach my partner.
 
