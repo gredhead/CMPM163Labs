@@ -23,6 +23,7 @@
 	![Alt text](/lab7/a2.png?raw=true "Part 2 B")
 	https://drive.google.com/file/d/1fudE7TAv7BpX3zanvtLBQmwVoX-8EOEZ/view?usp=sharing
 	https://drive.google.com/file/d/15sgRTY3jIj-lUOs5PBtxnZ_Mw63JTaw7/view?usp=sharing
+	Could not reach my partner.
 # lab8:
 	![Alt text](/lab8/city.png?raw=true "Part 2 A")
 	![Alt text](/lab7/inspiration.jpg?raw=true "Part 2 B")
@@ -31,5 +32,5 @@
 	Added brick texture to small buildings and glass to big ones.
 	Removed a line of buildings to make room for a freeway.
 	Added in trees to replace some buildings but the trees did not show up.
-	Could not reach my partner.
+	Could not reach my partner. Probably because I finished so late.
 
