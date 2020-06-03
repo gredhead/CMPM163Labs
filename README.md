@@ -39,3 +39,13 @@ lab8:
 	Added in trees to replace some buildings but the trees did not show up.
 	Could not reach my partner. Probably because I finished so late.
 
+lab9:
+	![Alt text](/lab9/tree1.png?raw=true "Part 2 A")
+	![Alt text](/lab9/tree2.png?raw=true "Part 2 A")
+	![Alt text](/lab9/tree3.png?raw=true "Part 2 A")
+	![Alt text](/lab9/tree4.png?raw=true "Part 2 A")
+	![Alt text](/lab9/my_tree1.png?raw=true "Part 2 A")
+	![Alt text](/lab9/my_tree2.png?raw=true "Part 2 A")
+	![Alt text](/lab9/my_tree3.png?raw=true "Part 2 A")
+	![Alt text](/lab9/my_tree4.png?raw=true "Part 2 A")
+	FF[--FF--FF][++FF++FF]FF
